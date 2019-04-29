@@ -1,4 +1,5 @@
 # Song-Genre-Classification
+Datacamp Project Workbook
 
 The dataset contains lyrics of two genres : Rock and HipHop.
 
